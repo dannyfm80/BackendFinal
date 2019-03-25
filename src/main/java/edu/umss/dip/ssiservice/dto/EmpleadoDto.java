@@ -98,5 +98,4 @@ public class EmpleadoDto extends DtoBase<Empleado>{
         return this;
     }
 
-
 }
